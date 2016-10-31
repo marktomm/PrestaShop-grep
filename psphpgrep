@@ -1,0 +1,1 @@
+grep --exclude=\*.{js,tpl,xml,tpl,json} --exclude=index.php --exclude=[a-z][a-z].php --exclude-dir=cache -nr 'expr'
